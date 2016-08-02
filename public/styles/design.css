@@ -1,0 +1,21 @@
+html{
+  text-decoration-color: silver;
+  border-top: neon green;
+  border-bottom: neon green;
+  border-color: inherit;
+}
+h1 {
+    color: silver;
+    margin-left: 20px;
+}
+.form-group{
+  padding-top: 300px;
+  padding-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.colophon {
+background:     none repeat scroll 0 0 lightblue;
+border-top:     12px solid neon orange;
+}
